@@ -1,6 +1,5 @@
 # PCB-CNC
 DIY Printed small PCB CNC for fast Prototyping
-[My image](Shortcircuitboards/PCB-CNC/blob/main/images/Bildschirmfoto_zu_2020-03-31_00-38-28.png)
 
 Super cheap and completely printable mini CNC.
 
