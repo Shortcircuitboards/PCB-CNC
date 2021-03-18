@@ -16,7 +16,7 @@ First Test with GFK : https://youtu.be/eDMas1sAJgw
 If you wanna suport me, please buy with the Links i added. These are Affilate links, so it won´t cost you more but generates Points for me that i can start other cool pojects. Thanks :-)
 
 BOM:
-3x Nema 17 Stepper https://www.banggood.com/custlink/333h9SGlvN
+3x Nema 17 Stepper https://www.banggood.com/custlink/333h9SGlvN <p>
 2x 8mm Smooth Rods 22cm https://www.banggood.com/custlink/m3GyISGlcv
 2x 8mm Smooth Rods 18,5cm https://www.banggood.com/custlink/m3GyISGlcv
 2x 8mm Smooth Rods 15cm https://www.banggood.com/custlink/m3GyISGlcv
