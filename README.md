@@ -6,6 +6,7 @@ Super cheap and completely printable mini CNC.
 I had a few Parts left from an old 3D Printer which i wanted to use for a tiny CNC which i can use to mill (engrave) PCB´s and smaller parts for my micro RC Trucks.
 
 For the Ramps I´m using a modified version of the RS-CNC Marlin code (i will upload it during the week) I connected the Spindle motor to the FAN output and modified my Start and End gcode with M106 (on) at the beginning and M107 (off) at the end.
+For Questions or Ideas etc. Join my Discord Server: https://discord.gg/veXttKwU7g
 
 I will also Upload a few more videos and files.
 
@@ -26,7 +27,8 @@ BOM:
 4x M3 Spacer 20mm https://www.banggood.com/custlink/KmmdI9vLJT<p>
 4x M3 Spacer 15mm https://www.banggood.com/custlink/KmmdI9vLJT<p>
 4x M3x25mm Screw<p>
-Arduino 3D Printer controller (i use an SKR 1.3) https://www.banggood.com/custlink/vvDhS87HsZ<p>
+Arduino 3D Printer controller Now i use the MKS GEN-L https://www.banggood.com/custlink/GmDRjpH797<p>
+(i killed my SKR 1.3) https://www.banggood.com/custlink/vvDhS87HsZ<p>
 Display (Optional) https://www.banggood.com/custlink/GvKdi9KjK2<p>
 12V Powersupply https://www.banggood.com/custlink/GDvyZSDapt<p>
 3x Endstops https://www.banggood.com/custlink/3DGR8ZDoRy<p>
