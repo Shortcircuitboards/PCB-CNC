@@ -1,6 +1,8 @@
 # PCB-CNC
 DIY Printed small PCB CNC for fast Prototyping
 
+![IMG_20210126_004652](https://user-images.githubusercontent.com/12409963/113927074-4d9b5180-97ed-11eb-8f54-90a4748bb942.jpeg)
+
 Super cheap and completely printable mini CNC.
 
 I had a few Parts left from an old 3D Printer which i wanted to use for a tiny CNC which i can use to mill (engrave) PCB´s and smaller parts for my micro RC Trucks.
@@ -9,6 +11,8 @@ For the Ramps I´m using a modified version of the RS-CNC Marlin code (i will up
 For Questions or Ideas etc. Join my Discord Server: https://discord.gg/veXttKwU7g
 
 I will also Upload a few more videos and files.
+![IMG_20210318_215630](https://user-images.githubusercontent.com/12409963/113927184-6dcb1080-97ed-11eb-99bc-9ce966434a95.jpeg)
+![IMG_20210318_221035](https://user-images.githubusercontent.com/12409963/113927194-715e9780-97ed-11eb-9c4d-6cbe93b9a8b6.jpeg)
 
 First Testrun with thin Plywood: https://youtu.be/KufswjqJp_4
 First Test with GFK : https://youtu.be/eDMas1sAJgw
