@@ -10,7 +10,7 @@ I had a few Parts left from an old 3D Printer which i wanted to use for a tiny C
 For the Ramps I´m using a modified version of the RS-CNC Marlin code (i will upload it during the week) I connected the Spindle motor to the FAN output and modified my Start and End gcode with M106 (on) at the beginning and M107 (off) at the end.
 For Questions or Ideas etc. Join my Discord Server: https://discord.gg/veXttKwU7g
 
-I will also Upload a few more videos and files.
+I will also Upload a few more videos and files.<p>
 ![IMG_20210318_215630](https://user-images.githubusercontent.com/12409963/113927184-6dcb1080-97ed-11eb-99bc-9ce966434a95.jpeg)
 ![IMG_20210318_221035](https://user-images.githubusercontent.com/12409963/113927194-715e9780-97ed-11eb-9c4d-6cbe93b9a8b6.jpeg)
 
