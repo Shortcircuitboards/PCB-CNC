@@ -16,6 +16,7 @@ I will also Upload a few more videos and files.<p>
 
 First Testrun with thin Plywood: https://youtu.be/KufswjqJp_4
 First Test with GFK : https://youtu.be/eDMas1sAJgw
+How to prepare Eagle files in FlatCam to GCODE: https://www.youtube.com/watch?v=ZhDrxoX4NBI
 
 If you wanna suport me, please buy with the Links i added. These are Affilate links, so it won´t cost you more but generates Points for me that i can start other cool pojects. Thanks :-)
 
